@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vishal Waje.
 - 👀 I’m interested in Full stack developement.
-- 🌱 I’m currently learning Full stack developement.
 - 📫 How to reach me vishalwaje09@gmail.com.
 
 <!---
